@@ -1,0 +1,13 @@
+C:\Users\Usuario\source\repos\Deporte\obj\Debug\netcoreapp3.1\Deporte.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Deporte\obj\Debug\netcoreapp3.1\Deporte.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Deporte\obj\Debug\netcoreapp3.1\Deporte.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Deporte\obj\Debug\netcoreapp3.1\Deporte.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Deporte\bin\Debug\netcoreapp3.1\Deporte.exe
+C:\Users\Usuario\source\repos\Deporte\bin\Debug\netcoreapp3.1\Deporte.deps.json
+C:\Users\Usuario\source\repos\Deporte\bin\Debug\netcoreapp3.1\Deporte.runtimeconfig.json
+C:\Users\Usuario\source\repos\Deporte\bin\Debug\netcoreapp3.1\Deporte.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\Deporte\bin\Debug\netcoreapp3.1\Deporte.dll
+C:\Users\Usuario\source\repos\Deporte\bin\Debug\netcoreapp3.1\Deporte.pdb
+C:\Users\Usuario\source\repos\Deporte\obj\Debug\netcoreapp3.1\Deporte.dll
+C:\Users\Usuario\source\repos\Deporte\obj\Debug\netcoreapp3.1\Deporte.pdb
+C:\Users\Usuario\source\repos\Deporte\obj\Debug\netcoreapp3.1\Deporte.genruntimeconfig.cache
